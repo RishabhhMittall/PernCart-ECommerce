@@ -4,6 +4,18 @@
   <img src="/frontend/public/screenshot-for-readme.png" alt="Demo App" width="800">
 </p>
 
+---
+
+<p align="center">
+  🎥 <b>Project Demo Video:</b><br>
+  <a href="https://drive.google.com/file/d/1kNZ5VQzPQS7RrVXzN1y-RxhyU_HfiF67/view?usp=sharing" target="_blank">
+    👉 Click here to watch the demo on Google Drive
+  </a>
+</p>
+
+---
+
+
 ## ✨ Highlights
 
 - 🌟 **Tech stack:** PERN + TailwindCSS + DaisyUI  
